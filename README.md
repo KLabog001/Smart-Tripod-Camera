@@ -2,4 +2,5 @@
 
 This is our Embedded Systems project.
 
-Demo Video: https://youtu.be/xBozmwATGnA
+Movement Demo Video: https://youtu.be/xBozmwATGnA
+Application Demo Video: https://youtu.be/bgssp4_HsOU
